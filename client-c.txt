@@ -2,3 +2,12 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Initialize Sorting App
+Set variable “Total” to 0
+While
+Scan Package increase by 2 
+	If total is <= 50 
+ 		Print “total is (sum of scanned packages)”
+End WHILE
+	If total is === 50 Print "This case is full"
+End

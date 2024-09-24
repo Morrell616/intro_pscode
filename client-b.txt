@@ -2,3 +2,15 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Begin 
+Print “Welcome to the warehouse locator”
+Input desired location in warehouse
+	Print “enter desired location”
+Get current location of user (get location)
+Calculate route to desired location
+	While
+ user is walking to desired location give step by step instruction
+		Output directions: north, south, east, west
+	End at desired location
+END
+Print “you have arrived at your destination”

@@ -2,3 +2,18 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+BEGIN 
+Set random numbers between 1 and 10
+Set attempts to 3 times
+Print “Choose a number between 1 and 10”
+	Player Chooses a random number between 1 and 10
+If number is correct print “you win”
+ Print “Try Again”
+Decrease attempt by 1
+Print “chooses another number between 1 and 10”
+		If number is correct print “Awesome you’re right”
+		Else print “Try one more time”
+Print “This is your last chance, so choose wisely between 1 and 10”
+		If number is correct print “you are correct”
+		Else “Sorry better luck next time."
+END
